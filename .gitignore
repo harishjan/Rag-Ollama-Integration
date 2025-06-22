@@ -39,7 +39,7 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
-__pycache__
+__pycache__/
 chroma_db/
 
 # Jupyter Notebook
